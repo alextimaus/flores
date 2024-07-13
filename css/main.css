@@ -68,6 +68,7 @@ body {
     font-family: 'Didot', serif; 
     color: rgb(202, 195, 93);
     position: fixed; /* cambiar a position: fixed para mostrar encima de otros elementos */ 
+    top: 30px;
     bottom: 20px; /* ajustar distancia al borde inferior */
     font-weight: bold;
     letter-spacing: 10px;
